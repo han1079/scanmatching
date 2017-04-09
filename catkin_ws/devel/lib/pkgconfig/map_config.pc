@@ -1,0 +1,8 @@
+prefix=/home/tralovitch/Documents/481/catkin_ws/devel
+
+Name: map_config
+Description: Description of map_config
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tralovitch/Documents/481/catkin_ws/devel/lib 
+Requires: 
